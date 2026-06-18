@@ -3,6 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Project-specific cache folders
+pages/__pycache__/
+tests/__pycache__/
+
 # C extensions
 *.so
 
