@@ -6,7 +6,8 @@ Projekt zawiera automatyczne testy E2E dla strony **ING.pl**, napisane w Python 
 Głównym celem jest:
 
 - obsługa bannera cookies ING,
-- akceptacja tylko wymaganych cookies,
+- akceptacja wymaganych i analitycznych cookies,
+- walidacja, że cookies analityczne zostały ustwaione,
 - walidacja, że żadne cookies marketingowe nie zostały ustawione,
 - uruchamianie testów na Chrome i Firefox.
 
